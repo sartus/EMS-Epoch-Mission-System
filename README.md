@@ -27,6 +27,9 @@ Easy : 10-15 minutes
 
 * Some knowledge of Epoch Server & Mission file locations
 * How to use PBO manager to unpack and pack PBO files
+* Easy : 10-15 minutes
+*[ATTENTION] Mission Vehicles disappear after a restart , EMS will not support saving them in any way !!
+*Develepod & Supported by Firefly and Fuchs
 
 ===========================================================================
 
